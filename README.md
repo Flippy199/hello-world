@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-Just another repository
+Taking a look at git hub for the first time. 
+Want to start coding ;)
